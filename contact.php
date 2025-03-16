@@ -139,22 +139,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.html">Home</a>
+                        <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="recipe.html">Recipes</a>
+                        <a class="nav-link" href="recipe.php">Recipes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cookbook.html">Cookbook</a>
+                        <a class="nav-link" href="cookbook.php">Cookbook</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="education.html">Learn</a>
+                        <a class="nav-link" href="education.php">Learn</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                 </ul>
                 <button class="btn btn-outline-primary me-2">Login</button>
